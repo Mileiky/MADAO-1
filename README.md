@@ -5,6 +5,9 @@ On accident, I only added 1 block instead of 8 blocks, so the embedding matrix r
 
 Training was not done with AdamW.
 
+<img width="1100" height="644" alt="image" src="https://github.com/user-attachments/assets/0ae00704-e93e-4429-891e-3c0a3f1a1ad9" />
+
+
 ## Setup
 
 These commands use Python 3.12 and a CUDA-enabled PyTorch build for NVIDIA GPUs. Run them from the project directory. PyTorch installation options
