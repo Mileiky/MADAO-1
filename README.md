@@ -3,7 +3,7 @@ A very stupid model. I wrote a naive implementation of the forward pass in Simpl
 
 On accident, I only added 1 block instead of 8 blocks, so the embedding matrix represents 80% of the total parameters. I believe the size is around 48 M parameters.
 
-Training was not with AdamW.
+Training was not done with AdamW.
 
 ## Setup
 
