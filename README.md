@@ -1,5 +1,5 @@
 # MADAO-1
-A very stupid model. I wrote the forward pass and then got too lazy to write anything else.
+A very stupid model. I wrote the forward pass in SimpleGPT.py, and then got too lazy to write anything else. (MADAO.py and train_madao.py were all vibe-coded)
 
 On accident, I only added 1 of the 8 feed-forward layers, so the embedding matrix represents 80% of the total parameters. I believe the size is around 50 M parameters.
 
