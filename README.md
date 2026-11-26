@@ -5,8 +5,6 @@ On accident, I only added 1 block instead of 8 blocks, so the embedding matrix r
 
 Training was not done with AdamW.
 
-<img width="501" height="298" alt="image" src="https://github.com/user-attachments/assets/51ac3719-3b1d-4973-9c7a-582c73734cad" />
-
 
 
 ## Setup
